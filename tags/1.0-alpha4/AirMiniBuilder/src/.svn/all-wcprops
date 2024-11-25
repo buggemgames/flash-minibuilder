@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src
+END
+AirMiniBuilder-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/AirMiniBuilder-app.xml
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/license.txt
+END
+AirMiniBuilder.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/AirMiniBuilder.as
+END
+aswing-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/aswing-license.txt
+END

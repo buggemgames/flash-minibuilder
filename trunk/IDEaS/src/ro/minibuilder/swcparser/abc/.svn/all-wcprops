@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/273/trunk/IDEaS/src/ro/minibuilder/swcparser/abc
+END
+Multiname_.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/Multiname_.as
+END
+Namespace_.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/Namespace_.as
+END
+LabelInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/LabelInfo.as
+END
+MethodInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/MethodInfo.as
+END
+SlotInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/273/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/SlotInfo.as
+END
+QName_.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/QName_.as
+END
+MetaData.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/MetaData.as
+END
+AbcConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/AbcConstants.as
+END
+TypeName.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/TypeName.as
+END
+MemberInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/MemberInfo.as
+END
+Abc.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/Abc.as
+END
+Traits.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/swcparser/abc/Traits.as
+END

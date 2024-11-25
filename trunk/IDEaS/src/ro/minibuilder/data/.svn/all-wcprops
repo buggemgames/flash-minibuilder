@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/data
+END
+ProjectConfig.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/data/ProjectConfig.as
+END
+Constants.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/data/Constants.as
+END
+CompilerMessage.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/data/CompilerMessage.as
+END
+IProjectPlug.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/data/IProjectPlug.as
+END
+BatchLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/270/trunk/IDEaS/src/ro/minibuilder/data/BatchLoader.as
+END

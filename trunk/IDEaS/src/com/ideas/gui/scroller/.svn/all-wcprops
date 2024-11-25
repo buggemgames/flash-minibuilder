@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/275/trunk/IDEaS/src/com/ideas/gui/scroller
+END
+ScrollerIndicator.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/270/trunk/IDEaS/src/com/ideas/gui/scroller/ScrollerIndicator.as
+END
+HorizontalScrollerContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/274/trunk/IDEaS/src/com/ideas/gui/scroller/HorizontalScrollerContainer.as
+END
+ScrollerGraphic.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/273/trunk/IDEaS/src/com/ideas/gui/scroller/ScrollerGraphic.as
+END
+ScrollerEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/270/trunk/IDEaS/src/com/ideas/gui/scroller/ScrollerEvent.as
+END
+BasicScrollerUnit.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/273/trunk/IDEaS/src/com/ideas/gui/scroller/BasicScrollerUnit.as
+END
+ScrollerContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/275/trunk/IDEaS/src/com/ideas/gui/scroller/ScrollerContainer.as
+END
+FloatingSelection.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/270/trunk/IDEaS/src/com/ideas/gui/scroller/FloatingSelection.as
+END

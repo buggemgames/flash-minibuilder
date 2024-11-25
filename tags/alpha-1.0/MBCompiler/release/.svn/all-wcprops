@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/164/tags/alpha-1.0/MBCompiler/release
+END
+libjnotify.so
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/164/tags/alpha-1.0/MBCompiler/release/libjnotify.so
+END
+jnotify.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/164/tags/alpha-1.0/MBCompiler/release/jnotify.dll
+END
+start
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/164/tags/alpha-1.0/MBCompiler/release/start
+END
+start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/164/tags/alpha-1.0/MBCompiler/release/start.bat
+END
+jnotify-0.91.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/164/tags/alpha-1.0/MBCompiler/release/jnotify-0.91.jar
+END
+MBCompiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/164/tags/alpha-1.0/MBCompiler/release/MBCompiler.jar
+END

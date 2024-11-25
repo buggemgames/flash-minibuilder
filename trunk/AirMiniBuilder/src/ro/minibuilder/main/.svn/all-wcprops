@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/267/trunk/AirMiniBuilder/src/ro/minibuilder/main
+END
+ProjectSearch.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/229/trunk/AirMiniBuilder/src/ro/minibuilder/main/ProjectSearch.as
+END
+ProjectWindow.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/266/trunk/AirMiniBuilder/src/ro/minibuilder/main/ProjectWindow.as
+END
+SearchReplace.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/254/trunk/AirMiniBuilder/src/ro/minibuilder/main/SearchReplace.as
+END
+MessagesList.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/229/trunk/AirMiniBuilder/src/ro/minibuilder/main/MessagesList.as
+END
+KeyBindings.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/259/trunk/AirMiniBuilder/src/ro/minibuilder/main/KeyBindings.as
+END
+ActionManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/267/trunk/AirMiniBuilder/src/ro/minibuilder/main/ActionManager.as
+END
+KeyShortcutsPane.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/262/trunk/AirMiniBuilder/src/ro/minibuilder/main/KeyShortcutsPane.as
+END
+ProjectWindowPanel.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/262/trunk/AirMiniBuilder/src/ro/minibuilder/main/ProjectWindowPanel.as
+END
+MBTree.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/241/trunk/AirMiniBuilder/src/ro/minibuilder/main/MBTree.as
+END
+DeployFiles.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/262/trunk/AirMiniBuilder/src/ro/minibuilder/main/DeployFiles.as
+END
+GotoLine.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/AirMiniBuilder/src/ro/minibuilder/main/GotoLine.as
+END
+Customize.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/244/trunk/AirMiniBuilder/src/ro/minibuilder/main/Customize.as
+END
+Skins.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/241/trunk/AirMiniBuilder/src/ro/minibuilder/main/Skins.as
+END
+ProgressPopup.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/216/trunk/AirMiniBuilder/src/ro/minibuilder/main/ProgressPopup.as
+END
+Frame.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/262/trunk/AirMiniBuilder/src/ro/minibuilder/main/Frame.as
+END
+AboutDialog.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/241/trunk/AirMiniBuilder/src/ro/minibuilder/main/AboutDialog.as
+END
+LibrarySearch.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/267/trunk/AirMiniBuilder/src/ro/minibuilder/main/LibrarySearch.as
+END
+AddLicense.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/262/trunk/AirMiniBuilder/src/ro/minibuilder/main/AddLicense.as
+END

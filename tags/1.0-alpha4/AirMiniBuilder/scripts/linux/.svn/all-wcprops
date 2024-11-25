@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/scripts/linux
+END
+export-air-file.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/scripts/linux/export-air-file.sh
+END
+run-debug.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/scripts/linux/run-debug.sh
+END
+create-certificate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/scripts/linux/create-certificate.sh
+END

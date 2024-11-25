@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/ro/minibuilder/data
+END
+ProjectConfig.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/ro/minibuilder/data/ProjectConfig.as
+END
+Constants.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/ro/minibuilder/data/Constants.as
+END
+CompilerMessage.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/ro/minibuilder/data/CompilerMessage.as
+END
+IProjectPlug.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/ro/minibuilder/data/IProjectPlug.as
+END
+BatchLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/232/tags/1.0-alpha4/AirMiniBuilder/src/ro/minibuilder/data/BatchLoader.as
+END

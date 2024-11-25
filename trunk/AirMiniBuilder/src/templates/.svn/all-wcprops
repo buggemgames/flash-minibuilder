@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/266/trunk/AirMiniBuilder/src/templates
+END
+avm-appclass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/avm-appclass.tpl
+END
+asprops.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/asprops.tpl
+END
+air-app-xml.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/air-app-xml.tpl
+END
+eclipse-project.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/eclipse-project.tpl
+END
+flex-startfile.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/flex-startfile.tpl
+END
+as3-appclass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/as3-appclass.tpl
+END
+aswing-appclass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/aswing-appclass.tpl
+END
+avm-startfile.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/avm-startfile.tpl
+END
+avm-helper.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/avm-helper.tpl
+END
+as3-startfile.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/266/trunk/AirMiniBuilder/src/templates/as3-startfile.tpl
+END
+flex-appclass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/flex-appclass.tpl
+END

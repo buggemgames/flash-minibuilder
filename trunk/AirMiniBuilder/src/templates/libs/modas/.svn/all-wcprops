@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/libs/modas
+END
+builtin.swc.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/libs/modas/builtin.swc.tpl
+END
+ModASNative.swc.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/libs/modas/ModASNative.swc.tpl
+END
+ModASLib.swc.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/142/trunk/AirMiniBuilder/src/templates/libs/modas/ModASLib.swc.tpl
+END
